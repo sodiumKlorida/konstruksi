@@ -18,20 +18,20 @@ Materi difokuskan pada pemahaman fundamental seperti:
 Program utama (`Program.cs`) menjalankan beberapa class pembelajaran berikut:
 
 ```csharp
-Console.WriteLine("topik ngoding 24-02-2026\n");
+Console.WriteLine("topik ngoding 25-02-2026\n");
 
 // CLASS VARIABLE INPUT OUTPUT
 Console.WriteLine("CLASS VARIABLE INPUT OUTPUT");
 input_output.InputOutput();
 
-//// CLASS VARIABLE ARRAY FOR LOOP
+// CLASS VARIABLE ARRAY FOR LOOP
 Console.WriteLine("\nCLASS VARIABLE ARRAY FOR LOOP");
 array_forloop.ArrayForLoop();
 
-//// CLASS VARIABLE IF ELSE
+// CLASS VARIABLE IF ELSE
 Console.WriteLine("\nCLASS VARIABLE IF ELSE");
 if_else.IfElse();
 
-//// CLASS VARIABLE OPERATOR
+// CLASS VARIABLE OPERATOR
 Console.WriteLine("\nCLASS VARIABLE OPERATOR");
 variable_operator.VariableOperator();
