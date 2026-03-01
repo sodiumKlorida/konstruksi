@@ -1,7 +1,7 @@
 # 📘 Week 1 — Pengenalan C#
 
-🎥 **Presentasi Materi:**  
-🔗 🔗 [PPT instalasi visual studio](https://www.canva.com/design/DAHCOduPvD4/LyvvX345THGA2vdB6w0rPw/edit?utm_content=DAHCOduPvD4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+🎥 **INSTALASI VS:**  
+🔗 [PPT instalasi visual studio](https://www.canva.com/design/DAHCOduPvD4/LyvvX345THGA2vdB6w0rPw/edit?utm_content=DAHCOduPvD4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
